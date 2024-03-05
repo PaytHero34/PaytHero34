@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaytHero34
 - 👀 I’m interested in gaining more experience with coding!
-- 🌱 I’m currently learning more Python
+- 🌱 I’m currently learning more about Python
 - 😄 Pronouns: he/him
 
 <!---
